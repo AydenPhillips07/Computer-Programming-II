@@ -20,35 +20,40 @@ class MainForm(Form):
 		# 
 		# button1
 		# 
+		self._button1.BackColor = System.Drawing.Color.PaleTurquoise
 		self._button1.Location = System.Drawing.Point(623, 112)
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(116, 56)
 		self._button1.TabIndex = 0
 		self._button1.Text = "Calculate"
-		self._button1.UseVisualStyleBackColor = True
+		self._button1.UseVisualStyleBackColor = False
 		self._button1.Click += self.Button1Click
 		# 
 		# button2
 		# 
+		self._button2.BackColor = System.Drawing.Color.PaleTurquoise
 		self._button2.Location = System.Drawing.Point(623, 195)
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(116, 56)
 		self._button2.TabIndex = 1
 		self._button2.Text = "Clear"
-		self._button2.UseVisualStyleBackColor = True
+		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
+		self._button3.BackColor = System.Drawing.Color.PaleTurquoise
 		self._button3.Location = System.Drawing.Point(623, 291)
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(116, 56)
 		self._button3.TabIndex = 2
 		self._button3.Text = "Exit"
-		self._button3.UseVisualStyleBackColor = True
+		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
 		# 
 		# label1
 		# 
-		self._label1.BackColor = System.Drawing.SystemColors.ActiveCaption
+		self._label1.BackColor = System.Drawing.Color.DodgerBlue
 		self._label1.Location = System.Drawing.Point(30, 25)
 		self._label1.Name = "label1"
 		self._label1.Size = System.Drawing.Size(192, 94)
@@ -58,7 +63,7 @@ class MainForm(Form):
 		# 
 		# label2
 		# 
-		self._label2.BackColor = System.Drawing.SystemColors.ActiveCaption
+		self._label2.BackColor = System.Drawing.Color.DodgerBlue
 		self._label2.Location = System.Drawing.Point(30, 176)
 		self._label2.Name = "label2"
 		self._label2.Size = System.Drawing.Size(503, 94)
@@ -67,7 +72,7 @@ class MainForm(Form):
 		# 
 		# label3
 		# 
-		self._label3.BackColor = System.Drawing.SystemColors.ActiveCaption
+		self._label3.BackColor = System.Drawing.Color.DodgerBlue
 		self._label3.Location = System.Drawing.Point(30, 291)
 		self._label3.Name = "label3"
 		self._label3.Size = System.Drawing.Size(503, 94)
@@ -84,6 +89,7 @@ class MainForm(Form):
 		# 
 		# MainForm
 		# 
+		self.BackColor = System.Drawing.Color.DarkTurquoise
 		self.ClientSize = System.Drawing.Size(848, 394)
 		self.Controls.Add(self._textBox1)
 		self.Controls.Add(self._label3)
@@ -107,3 +113,11 @@ class MainForm(Form):
 		c2 = round(circumference, 3)
 		self._label2.Text = "Area: " + str(a2)
 		self._label3.Text = "Circumference: " + str(c2)
+
+	def Button2Click(self, sender, e):
+		self._label2.Text = ""
+		self._label3.Text = ""
+		self._textBox1.Text = ""
+
+	def Button3Click(self, sender, e):
+		Application.Exit()
