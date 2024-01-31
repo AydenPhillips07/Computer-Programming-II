@@ -7,6 +7,7 @@ def main():
   if g < 4:
     a =  e * 0.042 + g * 0.5
     #y = round(a, 2)
+
     print("The bill is equal to: $", a)
   elif g >= 4 and g < 6:
     a = e * 0.038 + g * 0.45
