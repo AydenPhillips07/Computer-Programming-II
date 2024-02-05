@@ -1,0 +1,12 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\StrInt1.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\StrInt1.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\StrInt1.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\IronPython.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\IronPython.Modules.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\obj\Debug\StrInt1.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\obj\Debug\StrInt1.MainForm.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\obj\Debug\StrInt1.pyproj.GenerateResource.Cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt1\StrInt1\obj\Debug\StrInt1.exe
