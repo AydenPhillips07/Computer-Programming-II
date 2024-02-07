@@ -1,0 +1,3 @@
+C:\Users\phillips.a5\Documents\GitHub\StrInt2\StrInt2\obj\Debug\StrInt2.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\StrInt2\StrInt2\obj\Debug\StrInt2.MainForm.resources
+C:\Users\phillips.a5\Documents\GitHub\StrInt2\StrInt2\obj\Debug\StrInt2.pyproj.GenerateResource.Cache
