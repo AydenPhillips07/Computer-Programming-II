@@ -1,0 +1,12 @@
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\pg272.exe.config
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\pg272.exe
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\pg272.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\IronPython.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\IronPython.Modules.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\Microsoft.Scripting.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\obj\Debug\pg272.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\obj\Debug\pg272.MainForm.resources
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\obj\Debug\pg272.pyproj.GenerateResource.Cache
+C:\Users\phillips.a5\Documents\SharpDevelop Projects\pg272\pg272\obj\Debug\pg272.exe
