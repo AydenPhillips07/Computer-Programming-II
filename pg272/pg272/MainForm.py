@@ -19,6 +19,9 @@ class MainForm(Form):
 		self._label4 = System.Windows.Forms.Label()
 		self._label5 = System.Windows.Forms.Label()
 		self._label6 = System.Windows.Forms.Label()
+		self._button2 = System.Windows.Forms.Button()
+		self._button3 = System.Windows.Forms.Button()
+		self._label7 = System.Windows.Forms.Label()
 		self.SuspendLayout()
 		# 
 		# radioButton1
@@ -32,6 +35,7 @@ class MainForm(Form):
 		self._radioButton1.TabStop = True
 		self._radioButton1.Text = "DayTime (6:00 a.m. through 5:59 P.M.)"
 		self._radioButton1.UseVisualStyleBackColor = False
+		self._radioButton1.CheckedChanged += self.RadioButton1CheckedChanged
 		# 
 		# radioButton2
 		# 
@@ -44,6 +48,7 @@ class MainForm(Form):
 		self._radioButton2.TabStop = True
 		self._radioButton2.Text = "Evening (6:00 p.m. through 11:59 P.M.)"
 		self._radioButton2.UseVisualStyleBackColor = False
+		self._radioButton2.CheckedChanged += self.RadioButton2CheckedChanged
 		# 
 		# radioButton3
 		# 
@@ -56,6 +61,7 @@ class MainForm(Form):
 		self._radioButton3.TabStop = True
 		self._radioButton3.Text = "Off-Peak (12:00 a.m. through 5:59 A.M.)"
 		self._radioButton3.UseVisualStyleBackColor = False
+		self._radioButton3.CheckedChanged += self.RadioButton3CheckedChanged
 		# 
 		# label1
 		# 
@@ -124,17 +130,54 @@ class MainForm(Form):
 		# 
 		self._label6.BackColor = System.Drawing.Color.Crimson
 		self._label6.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._label6.Location = System.Drawing.Point(361, 4)
+		self._label6.Location = System.Drawing.Point(342, 4)
 		self._label6.Name = "label6"
-		self._label6.Size = System.Drawing.Size(131, 61)
+		self._label6.Size = System.Drawing.Size(150, 61)
 		self._label6.TabIndex = 9
-		self._label6.Text = "$0.07"
+		self._label6.Text = "Rates (Per Minute)"
 		self._label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		self._label6.Click += self.Label6Click
 		# 
+		# button2
+		# 
+		self._button2.BackColor = System.Drawing.Color.Crimson
+		self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 18, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._button2.Location = System.Drawing.Point(342, 332)
+		self._button2.Name = "button2"
+		self._button2.Size = System.Drawing.Size(174, 95)
+		self._button2.TabIndex = 11
+		self._button2.Text = "Clear"
+		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
+		# 
+		# button3
+		# 
+		self._button3.BackColor = System.Drawing.Color.Crimson
+		self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 18, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._button3.Location = System.Drawing.Point(615, 332)
+		self._button3.Name = "button3"
+		self._button3.Size = System.Drawing.Size(174, 95)
+		self._button3.TabIndex = 12
+		self._button3.Text = "Exit"
+		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
+		# 
+		# label7
+		# 
+		self._label7.BackColor = System.Drawing.Color.Crimson
+		self._label7.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label7.Location = System.Drawing.Point(12, 332)
+		self._label7.Name = "label7"
+		self._label7.Size = System.Drawing.Size(294, 150)
+		self._label7.TabIndex = 13
+		self._label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+		# 
 		# MainForm
 		# 
-		self.ClientSize = System.Drawing.Size(814, 491)
+		self.ClientSize = System.Drawing.Size(859, 491)
+		self.Controls.Add(self._label7)
+		self.Controls.Add(self._button3)
+		self.Controls.Add(self._button2)
 		self.Controls.Add(self._label6)
 		self.Controls.Add(self._label5)
 		self.Controls.Add(self._label4)
@@ -153,3 +196,44 @@ class MainForm(Form):
 
 	def Label6Click(self, sender, e):
 		pass
+
+	
+
+	def Button2Click(self, sender, e):
+		self._textBox1.Text = ""
+		self._label7.Text = ""
+
+	def Button3Click(self, sender, e):
+		Application.Exit()
+
+	def RadioButton1CheckedChanged(self, sender, e):
+		rate = 0.07
+		tod = "Daytime:" 
+			
+		callt = int(self._textBox1.Text)
+		if callt <= 0:
+			self._label7.Text = "Invalid Input"
+		else:
+			price = float(callt * rate)
+			price2 = int(price)
+			self._label7.Text = tod + str(callt) + " Minutes $" + str(price2)
+
+	def RadioButton2CheckedChanged(self, sender, e):
+		rate = 0.12
+		tod = "Evening: "
+		callt = int(self._textBox1.Text)
+		if callt <= 0:
+			self._label7.Text = "Invalid Input"
+		else:
+			price = float(callt * rate)
+			self._label7.Text = tod + str(callt) + " Minutes $" + str(price)
+
+	def RadioButton3CheckedChanged(self, sender, e):
+		rate = 0.05
+		tod = "Off-Peak: "
+		callt = int(self._textBox1.Text)
+		if callt <= 0:
+			self._label7.Text = "Invalid Input"
+		else:
+			price = float(callt * rate)
+			self._label7.Text = tod + str(callt) + " Minutes $" + str(price)

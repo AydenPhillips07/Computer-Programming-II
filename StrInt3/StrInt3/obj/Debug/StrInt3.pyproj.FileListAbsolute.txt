@@ -10,3 +10,5 @@ C:\Users\phillips.a5\Documents\GitHub\StrInt3\StrInt3\obj\Debug\StrInt3.pyprojRe
 C:\Users\phillips.a5\Documents\GitHub\StrInt3\StrInt3\obj\Debug\StrInt3.MainForm.resources
 C:\Users\phillips.a5\Documents\GitHub\StrInt3\StrInt3\obj\Debug\StrInt3.pyproj.GenerateResource.Cache
 C:\Users\phillips.a5\Documents\GitHub\StrInt3\StrInt3\obj\Debug\StrInt3.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt3\StrInt3\obj\Debug\StrInt3.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\StrInt3\StrInt3\obj\Debug\StrInt3.exe
