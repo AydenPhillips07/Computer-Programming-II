@@ -1,19 +1,19 @@
-pi = 3.14159
-rad = float(input("Enter Radius :"))
+def calcArea(pi, radius):
+  return pi * radius**2
 
-def circ(rad, pi):
-  c = 2 * rad * pi
-  
+def calcCirc(pi, radius):
+  return 2 * pi * radius
 
-def area(rad, pi):
-  are = pi + rad**2
-  
-  
-
+def areaCirc(pi, radius):
+  area = calcArea(pi, radius)
+  circ = calcCirc(pi, radius)
+  return area, circ
 
 def main():
-  pi = 3.14159
-  rad = float(input("Enter Radius :"))
-
-
+  pi = 3.1459
+  radius = float(input("Enter Radius :"))
   
+
+
+if __name__ == "__main__":
+  main()
