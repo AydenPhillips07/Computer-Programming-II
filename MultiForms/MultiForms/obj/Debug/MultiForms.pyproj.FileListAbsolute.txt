@@ -11,3 +11,4 @@ C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\MultiForms\MultiFo
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\MultiForms\MultiForms\obj\Debug\MultiForms.MainForm.resources
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\MultiForms\MultiForms\obj\Debug\MultiForms.pyproj.GenerateResource.Cache
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\MultiForms\MultiForms\obj\Debug\MultiForms.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\MultiForms\MultiForms\obj\Debug\MultiForms.SecondForm.resources

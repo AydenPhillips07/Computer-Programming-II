@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{6A9FC132-A44A-4A50-9C00-1DF1A05E3A84}</ProjectGuid>
+    <ProjectGuid>{C02D64E8-0ED2-41CD-BE4F-FDD2F4666486}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <RootNamespace>MultiForms</RootNamespace>
-    <AssemblyName>MultiForms</AssemblyName>
+    <RootNamespace>pg485ShadeDesigner</RootNamespace>
+    <AssemblyName>pg485ShadeDesigner</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -59,24 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.py" />
-    <Compile Include="Form3.py" />
     <Compile Include="MainForm.py" />
     <Compile Include="Program.py" />
-    <Compile Include="SecondForm.py" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.py</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.py</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="SecondForm.resx">
-      <DependentUpon>SecondForm.py</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />

@@ -174,6 +174,7 @@ class MainForm(Form):
 		# 
 		# MainForm
 		# 
+		self.BackColor = System.Drawing.Color.Tomato
 		self.ClientSize = System.Drawing.Size(859, 491)
 		self.Controls.Add(self._label7)
 		self.Controls.Add(self._button3)
@@ -215,25 +216,25 @@ class MainForm(Form):
 			self._label7.Text = "Invalid Input"
 		else:
 			price = float(callt * rate)
-			price2 = int(price)
-			self._label7.Text = tod + str(callt) + " Minutes $" + str(price2)
+			self._label7.Text = tod + str(callt) + " Minutes $" + str(price)
 
 	def RadioButton2CheckedChanged(self, sender, e):
 		rate = 0.12
 		tod = "Evening: "
 		callt = int(self._textBox1.Text)
-		if callt <= 0:
-			self._label7.Text = "Invalid Input"
-		else:
+		if callt >= 1:
 			price = float(callt * rate)
 			self._label7.Text = tod + str(callt) + " Minutes $" + str(price)
+		else: 
+			self._label7.Text = "Invalid Input"
+			
 
 	def RadioButton3CheckedChanged(self, sender, e):
 		rate = 0.05
 		tod = "Off-Peak: "
 		callt = int(self._textBox1.Text)
-		if callt <= 0:
-			self._label7.Text = "Invalid Input"
-		else:
+		if callt >= 1:
 			price = float(callt * rate)
 			self._label7.Text = tod + str(callt) + " Minutes $" + str(price)
+		else:
+			self._label7.Text = "Invalid Input"
