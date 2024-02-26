@@ -1,0 +1,12 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\obj\Debug\LP37.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\obj\Debug\LP37.MainForm.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\obj\Debug\LP37.pyproj.GenerateResource.Cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.Modules.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Scripting.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\LP37\LP37\obj\Debug\LP37.exe
