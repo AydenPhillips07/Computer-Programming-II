@@ -10,7 +10,7 @@ class Cl213f:
       self.cost = 0.05
     elif self.kwh > 10000:
       self.cost = 0.04
-    
+    self.cost = round(self.cost, 2)
 
   def __str__(self):
     return f"The cost of {self.kwh} is", self.kwh * self.cost
