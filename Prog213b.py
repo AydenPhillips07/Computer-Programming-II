@@ -3,18 +3,18 @@
 #200	-	299	$5.40
 #300 	&	 up	$5.15
 
-Quant = int(input("Enter Quantity: "))
-def main():
+with open("Langdat/prog213b.txt", 'r') as f:
+  num = int(f.readline())
   Price = 0.00
   Amount = 0.00
-  if Quant >= 0 and Quant <= 99:
+  if num >= 0 and num <= 99:
     Price = 5.95
-  elif Quant >= 100 and Quant <= 199:
+  elif num >= 100 and num <= 199:
     Price = 5.75
-  elif Quant >= 200 and Quant <= 299:
+  elif num >= 200 and num <= 299:
     Price = 5.40
-  elif Quant >= 300:
+  elif num >= 300:
     Price = 5.15
 
-  Amount = Quant * Price
-  print("Quantity:", Quant, "Price per item:", Price, "Total Amount:", Amount)
+Amount = num * Price
+print("Quantity:", num, "Price per item:", Price, "Total Amount:", Amount)
