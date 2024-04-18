@@ -142,7 +142,7 @@ class MainForm(Form):
 		# 
 		self._button2.BackColor = System.Drawing.Color.Crimson
 		self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 18, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button2.Location = System.Drawing.Point(342, 332)
+		self._button2.Location = System.Drawing.Point(537, 160)
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(174, 95)
 		self._button2.TabIndex = 11
@@ -154,7 +154,7 @@ class MainForm(Form):
 		# 
 		self._button3.BackColor = System.Drawing.Color.Crimson
 		self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 18, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button3.Location = System.Drawing.Point(615, 332)
+		self._button3.Location = System.Drawing.Point(537, 284)
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(174, 95)
 		self._button3.TabIndex = 12
@@ -168,7 +168,7 @@ class MainForm(Form):
 		self._label7.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
 		self._label7.Location = System.Drawing.Point(12, 332)
 		self._label7.Name = "label7"
-		self._label7.Size = System.Drawing.Size(294, 150)
+		self._label7.Size = System.Drawing.Size(480, 150)
 		self._label7.TabIndex = 13
 		self._label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
@@ -189,6 +189,7 @@ class MainForm(Form):
 		self.Controls.Add(self._radioButton3)
 		self.Controls.Add(self._radioButton2)
 		self.Controls.Add(self._radioButton1)
+		self.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
 		self.Name = "MainForm"
 		self.Text = "pg272"
 		self.ResumeLayout(False)

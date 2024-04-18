@@ -1,0 +1,6 @@
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\bin\Debug\Progr52aconsole.exe.config
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\bin\Debug\Progr52aconsole.exe
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\bin\Debug\Progr52aconsole.pdb
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\obj\Debug\Progr52aconsole.csprojResolveAssemblyReference.cache
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\obj\Debug\Progr52aconsole.exe
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Progr52aconsole\obj\Debug\Progr52aconsole.pdb

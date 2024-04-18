@@ -1,0 +1,6 @@
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\bin\Debug\Program54Cconsole.exe.config
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\bin\Debug\Program54Cconsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\bin\Debug\Program54Cconsole.pdb
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\obj\Debug\Program54Cconsole.csprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\obj\Debug\Program54Cconsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Program54Cconsole\obj\Debug\Program54Cconsole.pdb

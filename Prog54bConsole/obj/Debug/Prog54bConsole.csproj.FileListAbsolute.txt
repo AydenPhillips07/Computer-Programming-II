@@ -1,0 +1,5 @@
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Prog54bConsole\bin\Debug\Prog54bConsole.exe.config
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Prog54bConsole\bin\Debug\Prog54bConsole.exe
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Prog54bConsole\bin\Debug\Prog54bConsole.pdb
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Prog54bConsole\obj\Debug\Prog54bConsole.exe
+c:\users\phillips.a5\onedrive - janesville.k12.wi.us\documents\visual studio 2013\Projects\Progr52aconsole\Prog54bConsole\obj\Debug\Prog54bConsole.pdb

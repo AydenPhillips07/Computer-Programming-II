@@ -1,0 +1,3 @@
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,18 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-# SharpDevelop 4.4
-Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "prog122a", "prog122a\prog122a.pyproj", "{239740DA-3784-4B45-9AF3-BFE58A0A5170}"
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Prog122a", "Prog122a.pyproj", "{60EEE3C2-9745-4C22-AC49-C33561937634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{239740DA-3784-4B45-9AF3-BFE58A0A5170}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{239740DA-3784-4B45-9AF3-BFE58A0A5170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{239740DA-3784-4B45-9AF3-BFE58A0A5170}.Release|Any CPU.Build.0 = Release|Any CPU
-		{239740DA-3784-4B45-9AF3-BFE58A0A5170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EEE3C2-9745-4C22-AC49-C33561937634}.Debug|x86.Build.0 = Debug|x86
+		{60EEE3C2-9745-4C22-AC49-C33561937634}.Debug|x86.ActiveCfg = Debug|x86
+		{60EEE3C2-9745-4C22-AC49-C33561937634}.Release|x86.Build.0 = Release|x86
+		{60EEE3C2-9745-4C22-AC49-C33561937634}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 EndGlobal

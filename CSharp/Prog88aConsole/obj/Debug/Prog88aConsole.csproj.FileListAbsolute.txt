@@ -1,0 +1,9 @@
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\bin\Debug\Prog88aConsole.exe.config
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\bin\Debug\Prog88aConsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\bin\Debug\Prog88aConsole.pdb
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.csprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.Form1.resources
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.Properties.Resources.resources
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.csproj.GenerateResource.Cache
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\CSharp\Prog88aConsole\obj\Debug\Prog88aConsole.pdb

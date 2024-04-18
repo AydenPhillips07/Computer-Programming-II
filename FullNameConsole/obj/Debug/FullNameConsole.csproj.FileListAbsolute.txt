@@ -1,0 +1,6 @@
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\bin\Debug\FullNameConsole.exe.config
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\bin\Debug\FullNameConsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\bin\Debug\FullNameConsole.pdb
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\obj\Debug\FullNameConsole.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\obj\Debug\FullNameConsole.pdb
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FullNameConsole\obj\Debug\FullNameConsole.csprojResolveAssemblyReference.cache

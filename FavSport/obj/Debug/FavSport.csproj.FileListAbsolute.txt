@@ -1,0 +1,5 @@
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FavSport\bin\Debug\FavSport.exe.config
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FavSport\bin\Debug\FavSport.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FavSport\bin\Debug\FavSport.pdb
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FavSport\obj\Debug\FavSport.exe
+C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\FavSport\obj\Debug\FavSport.pdb
