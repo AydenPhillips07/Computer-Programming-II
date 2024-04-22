@@ -7,3 +7,13 @@ C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-P
 C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.csproj.GenerateResource.Cache
 C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.exe
 C:\Users\phillips.a5\OneDrive - janesville.k12.wi.us\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\bin\Debug\Prog54aConsole.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\bin\Debug\Prog54aConsole.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\bin\Debug\Prog54aConsole.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\Prog54aConsole\obj\Debug\Prog54aConsole.pdb

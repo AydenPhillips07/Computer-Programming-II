@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progr52aconsole", "Progr52aconsole\Progr52aconsole.csproj", "{DC58A500-1FAA-4B3F-9048-21DDFF8C01B8}"
 EndProject
@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54bConsole", "Prog54bCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54cConsole", "Prog54cConsole\Prog54cConsole.csproj", "{F85F779E-01E5-4457-BD86-00A1D7A67E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldConsole", "..\..\..\GitHub\Computer-Programming-II\CSharp\HelloWorld\HelloWorldConsole.csproj", "{1832B5D8-A988-4D31-B588-9FC47D1507A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldConsole", "HelloWorld\HelloWorldConsole.csproj", "{1832B5D8-A988-4D31-B588-9FC47D1507A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullNameConsole", "..\..\..\GitHub\Computer-Programming-II\FullNameConsole\FullNameConsole.csproj", "{9032A922-1689-4D06-A773-DD3E839AFC1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullNameConsole", "..\FullNameConsole\FullNameConsole.csproj", "{9032A922-1689-4D06-A773-DD3E839AFC1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavSport", "..\..\..\GitHub\Computer-Programming-II\FavSport\FavSport.csproj", "{D0D1A0C4-531D-4B85-A89A-BA6BB4B8D52B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavSport", "..\FavSport\FavSport.csproj", "{D0D1A0C4-531D-4B85-A89A-BA6BB4B8D52B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54aConsole", "..\..\..\GitHub\Computer-Programming-II\Prog54aConsole\Prog54aConsole.csproj", "{AD988F9A-AFD3-468C-8FBE-B7B06756BD7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54aConsole", "..\Prog54aConsole\Prog54aConsole.csproj", "{AD988F9A-AFD3-468C-8FBE-B7B06756BD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-1CSharp", "LP4-1CSharp\LP4-1CSharp.csproj", "{143BBED0-FD34-4E78-A77D-85414B103D26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,8 +53,15 @@ Global
 		{AD988F9A-AFD3-468C-8FBE-B7B06756BD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD988F9A-AFD3-468C-8FBE-B7B06756BD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD988F9A-AFD3-468C-8FBE-B7B06756BD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143BBED0-FD34-4E78-A77D-85414B103D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143BBED0-FD34-4E78-A77D-85414B103D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143BBED0-FD34-4E78-A77D-85414B103D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143BBED0-FD34-4E78-A77D-85414B103D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98D6FB8-AB76-4EAE-83E5-A99C140B01AB}
 	EndGlobalSection
 EndGlobal
