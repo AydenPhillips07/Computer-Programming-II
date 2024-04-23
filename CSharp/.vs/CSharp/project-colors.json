@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d286eadd-29a3-41b1-99aa-b2bd17f5e7f8": {
+      "ProjectGuid": "d286eadd-29a3-41b1-99aa-b2bd17f5e7f8",
+      "DisplayName": "LP4-1Console",
+      "ColorIndex": 0
+    },
+    "143bbed0-fd34-4e78-a77d-85414b103d26": {
+      "ProjectGuid": "143bbed0-fd34-4e78-a77d-85414b103d26",
+      "DisplayName": "LP4-1CSharp",
+      "ColorIndex": 1
+    },
+    "06553072-e96a-4b71-b9de-7e9fcea02f81": {
+      "ProjectGuid": "06553072-e96a-4b71-b9de-7e9fcea02f81",
+      "DisplayName": "Prog85c",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

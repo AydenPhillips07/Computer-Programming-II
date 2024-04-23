@@ -1,0 +1,15 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfoInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfo.cs
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\LP4-2.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\LP4-2.deps.json
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\LP4-2.runtimeconfig.json
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\LP4-2.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\ref\LP4-2.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\bin\Debug\net6.0\LP4-2.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\ref\LP4-2.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\LP4-2\LP4-2\obj\Debug\net6.0\LP4-2.genruntimeconfig.cache

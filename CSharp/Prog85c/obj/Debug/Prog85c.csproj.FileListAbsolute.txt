@@ -1,0 +1,11 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\bin\Debug\Prog85c.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\bin\Debug\Prog85c.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\bin\Debug\Prog85c.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog85c\obj\Debug\Prog85c.pdb
