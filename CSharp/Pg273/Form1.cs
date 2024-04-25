@@ -26,11 +26,25 @@ namespace Pg273
                 label2.Text = "You earned 5 points!";
             else if (numB > 1 && numB < 3)
                 label2.Text = "You earned 15 points!";
-            else if (numB > 2 && numB < 3)
+            else if (numB > 2 && numB < 4)
                 label2.Text = "You earned 30 points!";
+            else
+                label2.Text = "You earned 60 points!";
+            
         
 
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            label2.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

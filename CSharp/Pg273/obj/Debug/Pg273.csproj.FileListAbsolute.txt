@@ -1,0 +1,11 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\bin\Debug\Pg273.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\bin\Debug\Pg273.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\bin\Debug\Pg273.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg273\obj\Debug\Pg273.pdb

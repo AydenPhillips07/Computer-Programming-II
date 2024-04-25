@@ -1,0 +1,6 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.CoreCompileInputs.cache
