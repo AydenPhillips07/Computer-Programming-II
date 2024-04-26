@@ -4,3 +4,8 @@ C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\o
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.Properties.Resources.resources
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.GenerateResource.cache
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\bin\Debug\pg273Mass.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\bin\Debug\pg273Mass.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\bin\Debug\pg273Mass.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\pg273Mass\obj\Debug\pg273Mass.pdb

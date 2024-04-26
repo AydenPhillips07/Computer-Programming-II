@@ -19,14 +19,12 @@ namespace pg273Mass
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int mass = int.Parse(textBox1.Text);
+            double mass = double.Parse(textBox1.Text);
             double newt = mass * 9.8;
             if (newt < 10)
-                label2.Text = (newt.ToString());
-                label3.Text = "Object is too light.";
+                label2.Text = "Object is too light.";
             else if (newt > 1000)
-                label2.Text = (newt.ToString());
-                label3.Text = "Object is too heavy)";
+                label2.Text = "Object is too heavy.";
             else
                 label2.Text = (newt.ToString());
 
@@ -34,12 +32,13 @@ namespace pg273Mass
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = "";
+            label2.Text = "";
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
     }
 }
