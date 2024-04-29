@@ -30,7 +30,12 @@
       "ProjectGuid": "f6b8d88e-ed33-44d2-828a-118e6ad49d4b",
       "DisplayName": "pg273Mass",
       "ColorIndex": 5
+    },
+    "bb5b0c89-fb96-4c26-9ce0-421f2d51e2b1": {
+      "ProjectGuid": "bb5b0c89-fb96-4c26-9ce0-421f2d51e2b1",
+      "DisplayName": "Prog122aConsole",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

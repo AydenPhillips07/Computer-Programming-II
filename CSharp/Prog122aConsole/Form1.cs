@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace pg273Mass
+namespace Prog122aConsole
 {
     public partial class Form1 : Form
     {
@@ -17,28 +17,28 @@ namespace pg273Mass
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            double mass = double.Parse(textBox1.Text);
-            double newt = mass * 9.8;
-            if (newt < 10)
-                label2.Text = "Object is too light.";
-            else if (newt > 1000)
-                label2.Text = "Object is too heavy.";
-            else
-                label2.Text = (newt.ToString()) + " Newtons ";
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-            label2.Text = "";
+            listBox1.Items.Clear();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            listBox1.Items.Add("Number\t\tSquare\t\tSquare Root");
+            int lcv = 1;
+            while (lcv <= 50)    {
+                int sqr = (int)Math.Pow(lcv, 2);
+                double sqrt = Math.Sqrt(lcv);
+                listBox1.Items.Add(lcv + "\t\t" + sqr + "\t\t" + Math.Round(sqrt, 4));
+                lcv++;
+
+            }
         }
     }
 }
