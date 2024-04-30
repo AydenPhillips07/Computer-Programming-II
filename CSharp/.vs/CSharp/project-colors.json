@@ -35,7 +35,22 @@
       "ProjectGuid": "bb5b0c89-fb96-4c26-9ce0-421f2d51e2b1",
       "DisplayName": "Prog122aConsole",
       "ColorIndex": 6
+    },
+    "a865b2e8-1713-4f83-ad6d-bd1a28c638a4": {
+      "ProjectGuid": "a865b2e8-1713-4f83-ad6d-bd1a28c638a4",
+      "DisplayName": "Prog310A",
+      "ColorIndex": 7
+    },
+    "27e50f74-d69d-4270-b096-3a6654c3549c": {
+      "ProjectGuid": "27e50f74-d69d-4270-b096-3a6654c3549c",
+      "DisplayName": "PG347Sum",
+      "ColorIndex": 8
+    },
+    "d1d5a1cc-1779-4acd-bda4-a3a5ce29a1b8": {
+      "ProjectGuid": "d1d5a1cc-1779-4acd-bda4-a3a5ce29a1b8",
+      "DisplayName": "Prog122bWhile",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }

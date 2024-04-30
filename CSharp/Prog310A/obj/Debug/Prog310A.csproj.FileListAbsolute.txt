@@ -1,0 +1,11 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\bin\Debug\Prog310A.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\bin\Debug\Prog310A.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\bin\Debug\Prog310A.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog310A\obj\Debug\Prog310A.pdb
