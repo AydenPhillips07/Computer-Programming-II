@@ -1,0 +1,10 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\bin\Debug\Prog122d.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\bin\Debug\Prog122d.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\bin\Debug\Prog122d.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122dFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122d.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122d.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122dFor.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122dFor.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122d.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122d\obj\Debug\Prog122d.pdb

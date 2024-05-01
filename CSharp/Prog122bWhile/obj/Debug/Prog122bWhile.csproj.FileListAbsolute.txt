@@ -1,0 +1,11 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\bin\Debug\Prog122bWhile.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\bin\Debug\Prog122bWhile.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\bin\Debug\Prog122bWhile.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Prog122bWhile\obj\Debug\Prog122bWhile.pdb
