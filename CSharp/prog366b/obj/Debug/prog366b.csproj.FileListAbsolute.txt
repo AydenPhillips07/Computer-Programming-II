@@ -1,0 +1,6 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\prog366b\obj\Debug\prog366b.csproj.CoreCompileInputs.cache

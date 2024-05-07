@@ -7,6 +7,7 @@ Console.Write("Choose an option: add, sub, mul, or div: ");
 string op = Console.ReadLine();
 int result = 0;
 if (op == "add") result = add(n1, n2);
+
 else if (op == "sub") result = sub(n1, n2);
 else if (op == "mul") result = mul(n1, n2);
 else if (op == "div") result = div(n1, n2);
