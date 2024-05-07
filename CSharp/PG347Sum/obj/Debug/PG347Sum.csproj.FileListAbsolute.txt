@@ -4,3 +4,9 @@ C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\ob
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.Properties.Resources.resources
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.csproj.GenerateResource.cache
 C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\bin\Debug\PG347Sum.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\bin\Debug\PG347Sum.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\bin\Debug\PG347Sum.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\PG347Sum\obj\Debug\PG347Sum.pdb

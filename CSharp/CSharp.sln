@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122bWhile", "Prog122bWh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122dFor", "Prog122d\Prog122dFor.csproj", "{193039C9-DEE1-46A0-A635-255B93E92EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{402B7382-A49C-4ED2-9A0D-C7ED34021410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{193039C9-DEE1-46A0-A635-255B93E92EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{193039C9-DEE1-46A0-A635-255B93E92EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{193039C9-DEE1-46A0-A635-255B93E92EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402B7382-A49C-4ED2-9A0D-C7ED34021410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402B7382-A49C-4ED2-9A0D-C7ED34021410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402B7382-A49C-4ED2-9A0D-C7ED34021410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402B7382-A49C-4ED2-9A0D-C7ED34021410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

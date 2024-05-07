@@ -55,7 +55,12 @@
       "ProjectGuid": "193039c9-dee1-46a0-a635-255b93e92ef7",
       "DisplayName": "Prog122dFor",
       "ColorIndex": 10
+    },
+    "402b7382-a49c-4ed2-9a0d-c7ed34021410": {
+      "ProjectGuid": "402b7382-a49c-4ed2-9a0d-c7ed34021410",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }
