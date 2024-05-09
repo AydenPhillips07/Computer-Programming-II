@@ -1,0 +1,13 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.GeneralForm.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.StudentForm.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.pdb
