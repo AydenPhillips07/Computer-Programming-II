@@ -1,0 +1,11 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\bin\Debug\Pg498Payroll.exe.config
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\bin\Debug\Pg498Payroll.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\bin\Debug\Pg498Payroll.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.csproj.SuggestedBindingRedirects.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.Form1.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.Properties.Resources.resources
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.csproj.GenerateResource.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\Pg498Payroll\obj\Debug\Pg498Payroll.pdb

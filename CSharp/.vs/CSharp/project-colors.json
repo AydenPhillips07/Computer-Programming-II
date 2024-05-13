@@ -70,7 +70,12 @@
       "ProjectGuid": "9e99ea5e-5dba-40d7-81c0-a20dd8714cc6",
       "DisplayName": "Pg435TicketSalesCS",
       "ColorIndex": 13
+    },
+    "eb72ac0c-a56d-4389-a0a7-6304a247085e": {
+      "ProjectGuid": "eb72ac0c-a56d-4389-a0a7-6304a247085e",
+      "DisplayName": "Pg498Payroll",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }

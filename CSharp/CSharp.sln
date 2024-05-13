@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog366b", "prog366b\prog36
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSalesCS", "Pg435TicketSalesCS\Pg435TicketSalesCS.csproj", "{9E99EA5E-5DBA-40D7-81C0-A20DD8714CC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498Payroll", "Pg498Payroll\Pg498Payroll.csproj", "{EB72AC0C-A56D-4389-A0A7-6304A247085E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9E99EA5E-5DBA-40D7-81C0-A20DD8714CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E99EA5E-5DBA-40D7-81C0-A20DD8714CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E99EA5E-5DBA-40D7-81C0-A20DD8714CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB72AC0C-A56D-4389-A0A7-6304A247085E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB72AC0C-A56D-4389-A0A7-6304A247085E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB72AC0C-A56D-4389-A0A7-6304A247085E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB72AC0C-A56D-4389-A0A7-6304A247085E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

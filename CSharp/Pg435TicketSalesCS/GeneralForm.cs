@@ -46,6 +46,8 @@ namespace Pg435TicketSalesCS
             decimal PriceEachTicket = 0.0m;
             intNumTickets = int.Parse(textBox1.Text);
             decTicketCost = intNumTickets * PriceEachTicket;
+            decSalesTax = CalcTax(decTicketCost);
+            decTotal = decTicketCost + decSalesTax;
         }
     }
 }
