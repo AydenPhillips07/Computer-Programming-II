@@ -1,0 +1,15 @@
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\StrInterview7.exe
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\StrInterview7.deps.json
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\StrInterview7.runtimeconfig.json
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\StrInterview7.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\ref\StrInterview7.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\net6.0\StrInterview7.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.csproj.AssemblyReference.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.AssemblyInfoInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.AssemblyInfo.cs
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.csproj.CoreCompileInputs.cache
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\ref\StrInterview7.dll
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.pdb
+C:\Users\phillips.a5\Documents\GitHub\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\net6.0\StrInterview7.genruntimeconfig.cache

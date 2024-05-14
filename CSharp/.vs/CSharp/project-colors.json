@@ -75,7 +75,17 @@
       "ProjectGuid": "eb72ac0c-a56d-4389-a0a7-6304a247085e",
       "DisplayName": "Pg498Payroll",
       "ColorIndex": 14
+    },
+    "c506ffd7-df45-4b9e-921f-16aa099567b5": {
+      "ProjectGuid": "c506ffd7-df45-4b9e-921f-16aa099567b5",
+      "DisplayName": "StrInterview7",
+      "ColorIndex": 15
+    },
+    "528cf1f6-c106-4fa6-aa3d-ecc66b9c7f61": {
+      "ProjectGuid": "528cf1f6-c106-4fa6-aa3d-ecc66b9c7f61",
+      "DisplayName": "StrInterview16",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }
